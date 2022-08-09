@@ -88,7 +88,7 @@ JAVA_HOME="/usr/lib/jvm/jdk-14.0.2/"
 ```
 - Save and close the file
 - Refresh all the paths by running this command: **source /etc/environment**
-- Now echo the Java Home: ***echo $JAVA_HOME*
+- Now echo the Java Home: ***echo $JAVA_HOME**
 ```bash
 anushcodergirl@anushcodergirl:~/Downloads$ echo $JAVA_HOME
 /usr/lib/jvm/jdk-14.0.2
