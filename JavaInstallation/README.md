@@ -67,8 +67,8 @@ anushcodergirl@anushcodergirl:~/Downloads$ sudo update-alternatives --install /u
 update-alternatives: using /usr/lib/jvm/jdk-14.0.2/bin/javac to provide /usr/bin/javac (javac) in auto mode
 ```
 - Let's verify installation done by running this command:   
-    - **java --version** - To see java version
-    - **javac --version** - To see javac version
+    - **java -version** - To see java version
+    - **javac -version** - To see javac version
 
 
 ## Let's set Java Environment Variable
